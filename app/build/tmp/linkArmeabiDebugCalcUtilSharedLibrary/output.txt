@@ -1,0 +1,4 @@
+See file:///home/morteza/code/android-ndk-master/calc/app/build/tmp/linkArmeabiDebugCalcUtilSharedLibrary/output.txt for all output for linkArmeabiDebugCalcUtilSharedLibrary.
+linking libcalcUtil.so successful.
+
+Finished linkArmeabiDebugCalcUtilSharedLibrary, see full log file:///home/morteza/code/android-ndk-master/calc/app/build/tmp/linkArmeabiDebugCalcUtilSharedLibrary/output.txt.

@@ -1,0 +1,6 @@
+See file:///home/morteza/code/android-ndk-master/calc/app/build/tmp/compileX86DebugCalcUtilSharedLibraryCalcUtilMainCpp/output.txt for all output for compileX86DebugCalcUtilSharedLibraryCalcUtilMainCpp.
+compiling adder.cpp successful.
+
+compiling main.cpp successful.
+
+Finished compileX86DebugCalcUtilSharedLibraryCalcUtilMainCpp, see full log file:///home/morteza/code/android-ndk-master/calc/app/build/tmp/compileX86DebugCalcUtilSharedLibraryCalcUtilMainCpp/output.txt.

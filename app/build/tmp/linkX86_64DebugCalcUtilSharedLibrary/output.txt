@@ -1,0 +1,4 @@
+See file:///home/morteza/code/android-ndk-master/calc/app/build/tmp/linkX86_64DebugCalcUtilSharedLibrary/output.txt for all output for linkX86_64DebugCalcUtilSharedLibrary.
+linking libcalcUtil.so successful.
+
+Finished linkX86_64DebugCalcUtilSharedLibrary, see full log file:///home/morteza/code/android-ndk-master/calc/app/build/tmp/linkX86_64DebugCalcUtilSharedLibrary/output.txt.

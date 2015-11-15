@@ -1,0 +1,4 @@
+See file:///home/morteza/code/android-ndk-master/calc/app/build/tmp/linkMipsDebugCalcUtilSharedLibrary/output.txt for all output for linkMipsDebugCalcUtilSharedLibrary.
+linking libcalcUtil.so successful.
+
+Finished linkMipsDebugCalcUtilSharedLibrary, see full log file:///home/morteza/code/android-ndk-master/calc/app/build/tmp/linkMipsDebugCalcUtilSharedLibrary/output.txt.
