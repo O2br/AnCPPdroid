@@ -6,10 +6,10 @@ c++
 -DANDROID_NDK
 -fno-rtti
 -fno-exceptions
---sysroot=/home/morteza/software/Android/Sdk/ndk-bundle/platforms/android-21/arch-mips64
--I/home/morteza/software/Android/Sdk/ndk-bundle/sources/cxx-stl/gnu-libstdc++/4.9/include
--I/home/morteza/software/Android/Sdk/ndk-bundle/sources/cxx-stl/gnu-libstdc++/4.9/libs/mips64/include
--I/home/morteza/software/Android/Sdk/ndk-bundle/sources/cxx-stl/gnu-libstdc++/4.9/include/backward
+--sysroot=/home/damavand/android-sdks/ndk-bundle/platforms/android-21/arch-mips64
+-I/home/damavand/android-sdks/ndk-bundle/sources/cxx-stl/gnu-libstdc++/4.9/include
+-I/home/damavand/android-sdks/ndk-bundle/sources/cxx-stl/gnu-libstdc++/4.9/libs/mips64/include
+-I/home/damavand/android-sdks/ndk-bundle/sources/cxx-stl/gnu-libstdc++/4.9/include/backward
 -fpic
 -fno-strict-aliasing
 -finline-functions

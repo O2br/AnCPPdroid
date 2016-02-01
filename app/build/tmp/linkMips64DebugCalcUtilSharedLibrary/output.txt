@@ -1,4 +1,4 @@
-See file:///home/morteza/code/android-ndk-master/calc/app/build/tmp/linkMips64DebugCalcUtilSharedLibrary/output.txt for all output for linkMips64DebugCalcUtilSharedLibrary.
+See file:///media/damavand/external2/my/AnCPPdroid/app/build/tmp/linkMips64DebugCalcUtilSharedLibrary/output.txt for all output for linkMips64DebugCalcUtilSharedLibrary.
 linking libcalcUtil.so successful.
 
-Finished linkMips64DebugCalcUtilSharedLibrary, see full log file:///home/morteza/code/android-ndk-master/calc/app/build/tmp/linkMips64DebugCalcUtilSharedLibrary/output.txt.
+Finished linkMips64DebugCalcUtilSharedLibrary, see full log file:///media/damavand/external2/my/AnCPPdroid/app/build/tmp/linkMips64DebugCalcUtilSharedLibrary/output.txt.

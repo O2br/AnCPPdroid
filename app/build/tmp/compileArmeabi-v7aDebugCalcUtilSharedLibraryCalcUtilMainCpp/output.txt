@@ -1,6 +1,6 @@
-See file:///home/morteza/code/android-ndk-master/calc/app/build/tmp/compileArmeabi-v7aDebugCalcUtilSharedLibraryCalcUtilMainCpp/output.txt for all output for compileArmeabi-v7aDebugCalcUtilSharedLibraryCalcUtilMainCpp.
+See file:///media/damavand/external2/my/AnCPPdroid/app/build/tmp/compileArmeabi-v7aDebugCalcUtilSharedLibraryCalcUtilMainCpp/output.txt for all output for compileArmeabi-v7aDebugCalcUtilSharedLibraryCalcUtilMainCpp.
 compiling adder.cpp successful.
 
 compiling main.cpp successful.
 
-Finished compileArmeabi-v7aDebugCalcUtilSharedLibraryCalcUtilMainCpp, see full log file:///home/morteza/code/android-ndk-master/calc/app/build/tmp/compileArmeabi-v7aDebugCalcUtilSharedLibraryCalcUtilMainCpp/output.txt.
+Finished compileArmeabi-v7aDebugCalcUtilSharedLibraryCalcUtilMainCpp, see full log file:///media/damavand/external2/my/AnCPPdroid/app/build/tmp/compileArmeabi-v7aDebugCalcUtilSharedLibraryCalcUtilMainCpp/output.txt.

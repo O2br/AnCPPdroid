@@ -1,20 +1,11 @@
-
 #include <jni.h>
-#include "adder.h"
 
-
-extern "C" {
-
-JNIEXPORT jint JNICALL
-        Java_com_telefuns_sample_calc_MainActivity_add(JNIEnv *env, jclass, jint, jint);
-
+extern "C" JNIEXPORT jint JNICALL  Java_com_telefuns_sample_calc_NativeServiceHandler_start(JNIEnv *aEnv, jclass aType, jlong aValue)
+{
+    return aValue+1;
 }
 
-
-JNIEXPORT jint JNICALL
-Java_com_telefuns_sample_calc_MainActivity_add(JNIEnv *env, jclass type, jint a, jint b) {
-
-    Adder adder(a,b);
-    return adder.add();
+extern "C" JNIEXPORT jint JNICALL  Java_com_telefuns_sample_calc_NativeServiceHandler_stop(JNIEnv *aEnv, jclass aType, jlong aValue)
+{
+    return aValue-1;
 }
-

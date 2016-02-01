@@ -1,6 +1,6 @@
-See file:///home/morteza/code/android-ndk-master/calc/app/build/tmp/compileArm64-v8aDebugCalcUtilSharedLibraryCalcUtilMainCpp/output.txt for all output for compileArm64-v8aDebugCalcUtilSharedLibraryCalcUtilMainCpp.
+See file:///media/damavand/external2/my/AnCPPdroid/app/build/tmp/compileArm64-v8aDebugCalcUtilSharedLibraryCalcUtilMainCpp/output.txt for all output for compileArm64-v8aDebugCalcUtilSharedLibraryCalcUtilMainCpp.
 compiling adder.cpp successful.
 
 compiling main.cpp successful.
 
-Finished compileArm64-v8aDebugCalcUtilSharedLibraryCalcUtilMainCpp, see full log file:///home/morteza/code/android-ndk-master/calc/app/build/tmp/compileArm64-v8aDebugCalcUtilSharedLibraryCalcUtilMainCpp/output.txt.
+Finished compileArm64-v8aDebugCalcUtilSharedLibraryCalcUtilMainCpp, see full log file:///media/damavand/external2/my/AnCPPdroid/app/build/tmp/compileArm64-v8aDebugCalcUtilSharedLibraryCalcUtilMainCpp/output.txt.
